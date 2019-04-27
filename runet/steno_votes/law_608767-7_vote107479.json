@@ -1,0 +1,4524 @@
+{
+  "date": "2019-04-16 11:23:38",
+  "lawNumber": "608767-7",
+  "subject": "* (третье чтение) О проекте федерального закона № 608767-7 \"О внесении изменений в Федеральный закон \"О связи\" и Федеральный закон \"Об информации, информационных технологиях и о защите информации\" (в части обеспечения безопасного и устойчивого функционирования сети \"Интернет\" на территории Российской Федерации)",
+  "resolution": false,
+  "for": "307",
+  "against": "68",
+  "abstain": "0",
+  "absent": "75",
+  "transcriptLink": "http://api.duma.gov.ru/api/transcript/608767-7#2019_04_16_11_23_38",
+  "resultsByFaction": [
+    {
+      "code": "72100024",
+      "total": "339",
+      "for": "302",
+      "against": "0",
+      "abstain": "0",
+      "absent": "37",
+      "name": "Фракция Всероссийской политической партии \"ЕДИНАЯ РОССИЯ\"",
+      "abbr": "ЕР"
+    },
+    {
+      "code": "72100004",
+      "total": "43",
+      "for": "0",
+      "against": "33",
+      "abstain": "0",
+      "absent": "10",
+      "name": "Фракция Политической партии \"КОММУНИСТИЧЕСКАЯ ПАРТИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+      "abbr": "КПРФ"
+    },
+    {
+      "code": "72100005",
+      "total": "39",
+      "for": "1",
+      "against": "32",
+      "abstain": "0",
+      "absent": "6",
+      "name": "Фракция Политической партии ЛДПР - Либерально-демократической партии России",
+      "abbr": "ЛДПР"
+    },
+    {
+      "code": "72100027",
+      "total": "23",
+      "for": "3",
+      "against": "2",
+      "abstain": "0",
+      "absent": "18",
+      "name": "Фракция Политической партии СПРАВЕДЛИВАЯ РОССИЯ",
+      "abbr": "СР"
+    },
+    {
+      "code": "72100011",
+      "total": "2",
+      "for": "1",
+      "against": "1",
+      "abstain": "0",
+      "name": "Депутаты, не входящие во фракции",
+      "abbr": "Вне фракций"
+    }
+  ],
+  "resultsByDeputy": [
+    {
+      "code": "99112936",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Авдеев",
+      "name": "Александр",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111776",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Авдеев",
+      "name": "Михаил",
+      "patronymic": "Юрьевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99111987",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Агаев",
+      "name": "Ваха",
+      "patronymic": "Абуевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112712",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Адучиев",
+      "name": "Батор",
+      "patronymic": "Канурович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109653",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Азимов",
+      "name": "Рахим",
+      "patronymic": "Азизбоевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100784",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Аксаков",
+      "name": "Анатолий",
+      "patronymic": "Геннадьевич",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99111778",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Алексеева",
+      "name": "Татьяна",
+      "patronymic": "Олеговна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111779",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Алимова",
+      "name": "Ольга",
+      "patronymic": "Николаевна",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112719",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Альшевских",
+      "name": "Андрей",
+      "patronymic": "Геннадьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111780",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Ананских",
+      "name": "Игорь",
+      "patronymic": "Александрович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99113072",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Андрейченко",
+      "name": "Андрей",
+      "patronymic": "Валерьевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99110909",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Аникеев",
+      "name": "Григорий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112513",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Антонова",
+      "name": "Лидия",
+      "patronymic": "Николаевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112511",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Антошкин",
+      "name": "Николай",
+      "patronymic": "Тимофеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100640",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Арефьев",
+      "name": "Николай",
+      "patronymic": "Васильевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99109998",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Аршба",
+      "name": "Отари",
+      "patronymic": "Ионович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112121",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Аршинова",
+      "name": "Алёна",
+      "patronymic": "Игоревна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112120",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Аскендеров",
+      "name": "Заур",
+      "patronymic": "Асевович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110911",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Афонин",
+      "name": "Юрий",
+      "patronymic": "Вячеславович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112021",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Афонский",
+      "name": "Владимир",
+      "patronymic": "Игорьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112721",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Байгускаров",
+      "name": "Зариф",
+      "patronymic": "Закирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112722",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Балыбердин",
+      "name": "Алексей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110914",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Балыхин",
+      "name": "Григорий",
+      "patronymic": "Артёмович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112723",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бальбек",
+      "name": "Руслан",
+      "patronymic": "Исмаилович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111787",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бариев",
+      "name": "Марат",
+      "patronymic": "Мансурович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112724",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Барышев",
+      "name": "Андрей",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111788",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Баталина",
+      "name": "Ольга",
+      "patronymic": "Юрьевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111789",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Баталова",
+      "name": "Рима",
+      "patronymic": "Акбердиновна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112725",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бахарев",
+      "name": "Константин",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112726",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бахметьев",
+      "name": "Виталий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112727",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Белеков",
+      "name": "Иван",
+      "patronymic": "Итулович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112728",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Белик",
+      "name": "Дмитрий",
+      "patronymic": "Анатольевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111791",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Белоусов",
+      "name": "Вадим",
+      "patronymic": "Владимирович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112362",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Белых",
+      "name": "Ирина",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112729",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Березуцкий",
+      "name": "Юрий",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111793",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Берулава",
+      "name": "Михаил",
+      "patronymic": "Николаевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112730",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Беспалова",
+      "name": "Марина",
+      "patronymic": "Павловна",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113014",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бессараб",
+      "name": "Светлана",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112937",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бессарабов",
+      "name": "Даниил",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112732",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бикбаев",
+      "name": "Ильдар",
+      "patronymic": "Зинурович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111795",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Бифов",
+      "name": "Анатолий",
+      "patronymic": "Жамалович",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112930",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Блоцкий",
+      "name": "Владимир",
+      "patronymic": "Николаевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112921",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Богодухов",
+      "name": "Владимир",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110921",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Богуславский",
+      "name": "Ирек",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112734",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Боева",
+      "name": "Наталья",
+      "patronymic": "Дмитриевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112940",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Боженов",
+      "name": "Сергей",
+      "patronymic": "Андреевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112735",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бокк",
+      "name": "Владимир",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112736",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бондаренко",
+      "name": "Елена",
+      "patronymic": "Вениаминовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112737",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бондарь",
+      "name": "Оксана",
+      "patronymic": "Андреевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111798",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Бортко",
+      "name": "Владимир",
+      "patronymic": "Владимирович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99109981",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Борцов",
+      "name": "Николай",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112738",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Боташев",
+      "name": "Расул",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112739",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Боярский",
+      "name": "Сергей",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112740",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Брыкин",
+      "name": "Николай",
+      "patronymic": "Гаврилович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112010",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Брыксин",
+      "name": "Александр",
+      "patronymic": "Юрьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99107264",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бугера",
+      "name": "Михаил",
+      "patronymic": "Евгеньевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112913",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Будуев",
+      "name": "Николай",
+      "patronymic": "Робертович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112741",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Бузилов",
+      "name": "Валерий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112742",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Букачаков",
+      "name": "Родион",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100052",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Булавинов",
+      "name": "Вадим",
+      "patronymic": "Евгеньевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111801",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Бурматов",
+      "name": "Владимир",
+      "patronymic": "Владимирович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112743",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Бурнашов",
+      "name": "Алексей",
+      "patronymic": "Леонидович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113128",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Быков",
+      "name": "Олег",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112023",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Валеев",
+      "name": "Эрнест",
+      "patronymic": "Абдулович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110927",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Валенчук",
+      "name": "Олег",
+      "patronymic": "Дорианович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111804",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Валуев",
+      "name": "Николай",
+      "patronymic": "Сергеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112012",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Василенко",
+      "name": "Александр",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112032",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Васильев",
+      "name": "Александр",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112745",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Веллер",
+      "name": "Алексей",
+      "patronymic": "Борисович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113204",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Веремеенко",
+      "name": "Сергей",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112746",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Ветлужских",
+      "name": "Андрей",
+      "patronymic": "Леонидович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112747",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Власов",
+      "name": "Василий",
+      "patronymic": "Максимович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99110929",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Водолацкий",
+      "name": "Виктор",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112928",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Воевода",
+      "name": "Алексей",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112934",
+      "result": "absent",
+      "factionCode": "72100005",
+      "family": "Волков",
+      "name": "Юрий",
+      "patronymic": "Геннадьевич",
+      "resultSort": "2",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99100829",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Володин",
+      "name": "Вячеслав",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112748",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Воробьев",
+      "name": "Александр",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112749",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Воронина",
+      "name": "Татьяна",
+      "patronymic": "Евгеньевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112485",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Вострецов",
+      "name": "Сергей",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110932",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Вторыгина",
+      "name": "Елена",
+      "patronymic": "Андреевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111809",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Выборный",
+      "name": "Анатолий",
+      "patronymic": "Борисович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110933",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Вяткин",
+      "name": "Дмитрий",
+      "patronymic": "Федорович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110934",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Гаврилов",
+      "name": "Сергей",
+      "patronymic": "Анатольевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99110082",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гаджиев",
+      "name": "Магомед",
+      "patronymic": "Тажудинович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111991",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гаджиев",
+      "name": "Мурад",
+      "patronymic": "Станиславович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112750",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гадыльшин",
+      "name": "Мурад",
+      "patronymic": "Асфандиарович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112925",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Газгиреев",
+      "name": "Юшаа",
+      "patronymic": "Орснакиевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112751",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Газзаев",
+      "name": "Валерий",
+      "patronymic": "Георгиевич",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112430",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Ганзя",
+      "name": "Вера",
+      "patronymic": "Анатольевна",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112752",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ганиев",
+      "name": "Фарит",
+      "patronymic": "Глюсович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99107687",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Гартунг",
+      "name": "Валерий",
+      "patronymic": "Карлович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99111812",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Геккиев",
+      "name": "Заур",
+      "patronymic": "Далхатович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99101528",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Герасименко",
+      "name": "Николай",
+      "patronymic": "Федорович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112920",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Германова",
+      "name": "Ольга",
+      "patronymic": "Михайловна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112753",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гетта",
+      "name": "Антон",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110085",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гильмутдинов",
+      "name": "Ильдар",
+      "patronymic": "Ирекович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112754",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гладких",
+      "name": "Борис",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112608",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Говорин",
+      "name": "Николай",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112755",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гоголева",
+      "name": "Татьяна",
+      "patronymic": "Степановна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110941",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Голушко",
+      "name": "Андрей",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99102051",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гончар",
+      "name": "Николай",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112916",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Горелкин",
+      "name": "Антон",
+      "patronymic": "Вадимович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100110",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Грешневиков",
+      "name": "Анатолий",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112932",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Грибов",
+      "name": "Александр",
+      "patronymic": "Сергеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112757",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гулевский",
+      "name": "Михаил",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112466",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Гусева",
+      "name": "Ирина",
+      "patronymic": "Михайловна",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111820",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Гутенев",
+      "name": "Владимир",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112758",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Дамдинов",
+      "name": "Алдар",
+      "patronymic": "Валерьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112914",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Данчикова",
+      "name": "Галина",
+      "patronymic": "Иннокентьевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111822",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Дегтярев",
+      "name": "Михаил",
+      "patronymic": "Владимирович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99110948",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Делимханов",
+      "name": "Адам",
+      "patronymic": "Султанович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110949",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Демченко",
+      "name": "Иван",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111684",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Деньгин",
+      "name": "Вадим",
+      "patronymic": "Евгеньевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112759",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Дерябкин",
+      "name": "Виктор",
+      "patronymic": "Ефимович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112760",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Дзюба",
+      "name": "Виктор",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112761",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Дивинский",
+      "name": "Игорь",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111823",
+      "result": "absent",
+      "factionCode": "72100005",
+      "family": "Диденко",
+      "name": "Алексей",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112924",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Догаев",
+      "name": "Ахмед",
+      "patronymic": "Шамханович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111827",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Дорохин",
+      "name": "Павел",
+      "patronymic": "Сергеевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99100799",
+      "result": "for",
+      "factionCode": "72100027",
+      "family": "Драпеко",
+      "name": "Елена",
+      "patronymic": "Григорьевна",
+      "resultSort": "-1",
+      "faction": "СР"
+    },
+    {
+      "code": "99112762",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Драчев",
+      "name": "Владимир",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112763",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Духанина",
+      "name": "Любовь",
+      "patronymic": "Николаевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112764",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Евланов",
+      "name": "Владимир",
+      "patronymic": "Лазаревич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110020",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Езерский",
+      "name": "Николай",
+      "patronymic": "Николаевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99110954",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Езубов",
+      "name": "Алексей",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112766",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Елыкомов",
+      "name": "Валерий",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99102119",
+      "result": "for",
+      "factionCode": "72100027",
+      "family": "Емельянов",
+      "name": "Михаил",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "СР"
+    },
+    {
+      "code": "99111830",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Епифанова",
+      "name": "Ольга",
+      "patronymic": "Николаевна",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112014",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Есяков",
+      "name": "Сергей",
+      "patronymic": "Яковлевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111831",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ефимов",
+      "name": "Виталий",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111832",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Жарков",
+      "name": "Антон",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110957",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Железняк",
+      "name": "Сергей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111833",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Жигарев",
+      "name": "Сергей",
+      "patronymic": "Александрович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99100142",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Жириновский",
+      "name": "Владимир",
+      "patronymic": "Вольфович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99100145",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Жуков",
+      "name": "Александр",
+      "patronymic": "Дмитриевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112911",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Жупиков",
+      "name": "Александр",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111836",
+      "result": "against",
+      "factionCode": "72100011",
+      "family": "Журавлев",
+      "name": "Алексей",
+      "patronymic": "Александрович",
+      "resultSort": "1",
+      "faction": "Вне фракций"
+    },
+    {
+      "code": "99110958",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Журова",
+      "name": "Светлана",
+      "patronymic": "Сергеевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112028",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Завальный",
+      "name": "Павел",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109953",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Заварзин",
+      "name": "Виктор",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112768",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Загребин",
+      "name": "Алексей",
+      "patronymic": "Егорович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100158",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Затулин",
+      "name": "Константин",
+      "patronymic": "Федорович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112769",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Земцов",
+      "name": "Николай",
+      "patronymic": "Георгиевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112918",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Зиннуров",
+      "name": "Ирек",
+      "patronymic": "Хайдарович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112770",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Зобнев",
+      "name": "Виктор",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110967",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Зубарев",
+      "name": "Виктор",
+      "patronymic": "Владиславович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100171",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Зюганов",
+      "name": "Геннадий",
+      "patronymic": "Андреевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112175",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Иванов",
+      "name": "Валерий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112771",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Иванов",
+      "name": "Максим",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100666",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Иванов",
+      "name": "Николай",
+      "patronymic": "Николаевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99100522",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Иванов",
+      "name": "Сергей",
+      "patronymic": "Владимирович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99107896",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Игнатов",
+      "name": "Виктор",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100862",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Игошин",
+      "name": "Игорь",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112772",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Изотов",
+      "name": "Алексей",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111844",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ильтяков",
+      "name": "Александр",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113129",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Ионин",
+      "name": "Дмитрий",
+      "patronymic": "Александрович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99100749",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Исаев",
+      "name": "Андрей",
+      "patronymic": "Константинович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112773",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Исламов",
+      "name": "Дмитрий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112774",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ишсарин",
+      "name": "Рамзил",
+      "patronymic": "Рафаилович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109900",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ищенко",
+      "name": "Александр",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111220",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кабанова",
+      "name": "Валентина",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112775",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кавинов",
+      "name": "Артем",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109906",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Казаков",
+      "name": "Виктор",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112127",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Казакова",
+      "name": "Ольга",
+      "patronymic": "Михайловна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112776",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Казанков",
+      "name": "Сергей",
+      "patronymic": "Иванович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99111543",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Калашников",
+      "name": "Леонид",
+      "patronymic": "Иванович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112777",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Каличенко",
+      "name": "Андрей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111850",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Каминский",
+      "name": "Александр",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112778",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Канаев",
+      "name": "Алексей",
+      "patronymic": "Валерианович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112939",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Карамышев",
+      "name": "Виктор",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111852",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Каргинов",
+      "name": "Сергей",
+      "patronymic": "Генрихович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99100692",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Карелин",
+      "name": "Александр",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112018",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Карлов",
+      "name": "Георгий",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109942",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кармазина",
+      "name": "Раиса",
+      "patronymic": "Васильевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111854",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Карпов",
+      "name": "Анатолий",
+      "patronymic": "Евгеньевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112933",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Касаева",
+      "name": "Татьяна",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112236",
+      "result": "absent",
+      "factionCode": "72100005",
+      "family": "Катасонов",
+      "name": "Сергей",
+      "patronymic": "Михайлович",
+      "resultSort": "2",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112779",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Катенев",
+      "name": "Владимир",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111855",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Качкаев",
+      "name": "Павел",
+      "patronymic": "Рюрикович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110050",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Кашин",
+      "name": "Владимир",
+      "patronymic": "Иванович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99110982",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Квитка",
+      "name": "Иван",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111399",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кидяев",
+      "name": "Виктор",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112780",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Клыканов",
+      "name": "Александр",
+      "patronymic": "Борисович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112781",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кобзев",
+      "name": "Юрий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112922",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Кобилев",
+      "name": "Алексей",
+      "patronymic": "Геннадьевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112782",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ковпак",
+      "name": "Лев",
+      "patronymic": "Игоревич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111859",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Когогина",
+      "name": "Альфия",
+      "patronymic": "Гумаровна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112783",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Козенко",
+      "name": "Андрей",
+      "patronymic": "Дмитриевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112784",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Козловский",
+      "name": "Александр",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110985",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Колесников",
+      "name": "Олег",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99103008",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Коломейцев",
+      "name": "Николай",
+      "patronymic": "Васильевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112011",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кононов",
+      "name": "Владимир",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110990",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Корниенко",
+      "name": "Алексей",
+      "patronymic": "Викторович",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112787",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Костенко",
+      "name": "Наталья",
+      "patronymic": "Васильевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112788",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Косяненко",
+      "name": "Евгений",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112432",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Коткин",
+      "name": "Сергей",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99103226",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Кравец",
+      "name": "Александр",
+      "patronymic": "Алексеевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99109598",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кравченко",
+      "name": "Денис",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112789",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Красноштанов",
+      "name": "Алексей",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112015",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Красов",
+      "name": "Андрей",
+      "patronymic": "Леонидович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100761",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Крашенинников",
+      "name": "Павел",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112060",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кривенко",
+      "name": "Татьяна",
+      "patronymic": "Олеговна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111867",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кривоносов",
+      "name": "Сергей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111733",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Крупенников",
+      "name": "Владимир",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112790",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Крючек",
+      "name": "Сергей",
+      "patronymic": "Иванович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112915",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кувшинова",
+      "name": "Наталья",
+      "patronymic": "Сергеевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112791",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кувычко",
+      "name": "Анна",
+      "patronymic": "Александровна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112792",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кудрявцев",
+      "name": "Максим",
+      "patronymic": "Георгиевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113205",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Кузьмин",
+      "name": "Андрей",
+      "patronymic": "Альбертович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112794",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кузьмин",
+      "name": "Михаил",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111873",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Кулиева",
+      "name": "Василина",
+      "patronymic": "Васильевна",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99100225",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Кулик",
+      "name": "Геннадий",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111877",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Курбанов",
+      "name": "Ризван",
+      "patronymic": "Даниялович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99100550",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Курдюмов",
+      "name": "Александр",
+      "patronymic": "Борисович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112795",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Куринный",
+      "name": "Алексей",
+      "patronymic": "Владимирович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112796",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Лавриненко",
+      "name": "Алексей",
+      "patronymic": "Федорович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109600",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Лавров",
+      "name": "Олег",
+      "patronymic": "Леонидович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112797",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ламейкин",
+      "name": "Дмитрий",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100750",
+      "result": "absent",
+      "factionCode": "72100005",
+      "family": "Лебедев",
+      "name": "Игорь",
+      "patronymic": "Владимирович",
+      "resultSort": "2",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112037",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Лебедев",
+      "name": "Олег",
+      "patronymic": "Александрович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99111880",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Левин",
+      "name": "Леонид",
+      "patronymic": "Леонидович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112798",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Левицкий",
+      "name": "Юрий",
+      "patronymic": "Андреевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112035",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ледков",
+      "name": "Григорий",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112799",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Литовченко",
+      "name": "Анатолий",
+      "patronymic": "Григорьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112800",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Лоор",
+      "name": "Иван",
+      "patronymic": "Иванович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110999",
+      "result": "for",
+      "factionCode": "72100005",
+      "family": "Луговой",
+      "name": "Андрей",
+      "patronymic": "Константинович",
+      "resultSort": "-1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99111883",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Лысаков",
+      "name": "Вячеслав",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112802",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Лященко",
+      "name": "Алексей",
+      "patronymic": "Вадимович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112803",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Маграмов",
+      "name": "Абдулмажид",
+      "patronymic": "Варисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100248",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Макаров",
+      "name": "Андрей",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112483",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Макиев",
+      "name": "Зураб",
+      "patronymic": "Гайозович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112805",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Максимов",
+      "name": "Александр",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112039",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Максимов",
+      "name": "Василий",
+      "patronymic": "Юрьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109956",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Максимова",
+      "name": "Надежда",
+      "patronymic": "Сергеевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111888",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Максимова",
+      "name": "Светлана",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113073",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Малов",
+      "name": "Николай",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111892",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Марданшин",
+      "name": "Рафаэль",
+      "patronymic": "Мирхатимович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111893",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Маринин",
+      "name": "Сергей",
+      "patronymic": "Владимирович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112806",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Марков",
+      "name": "Андрей",
+      "patronymic": "Павлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113312",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Марков",
+      "name": "Евгений",
+      "patronymic": "Владимирович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112807",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Марченко",
+      "name": "Евгений",
+      "patronymic": "Евгеньевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112926",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Марьяш",
+      "name": "Ирина",
+      "patronymic": "Евгеньевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112808",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Медведев",
+      "name": "Иван",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112809",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Мельник",
+      "name": "Владимир",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99104023",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Мельников",
+      "name": "Иван",
+      "patronymic": "Иванович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99113311",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Менделевич",
+      "name": "Борис",
+      "patronymic": "Давыдович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112810",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Милонов",
+      "name": "Виталий",
+      "patronymic": "Валентинович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112811",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Минкин",
+      "name": "Иршат",
+      "patronymic": "Султанович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99107891",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Миронов",
+      "name": "Сергей",
+      "patronymic": "Михайлович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112812",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Миронова",
+      "name": "Валентина",
+      "patronymic": "Михайловна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112649",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Митина",
+      "name": "Елена",
+      "patronymic": "Анатольевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112813",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Мищеряков",
+      "name": "Юрий",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109798",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Морозов",
+      "name": "Антон",
+      "patronymic": "Юрьевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112814",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Морозов",
+      "name": "Дмитрий",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112815",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Москвин",
+      "name": "Денис",
+      "patronymic": "Павлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111904",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Москвичев",
+      "name": "Евгений",
+      "patronymic": "Сергеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111010",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Мукабенова",
+      "name": "Марина",
+      "patronymic": "Алексеевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100781",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Муцоев",
+      "name": "Зелимхан",
+      "patronymic": "Аликоевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112912",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Назарова",
+      "name": "Наталья",
+      "patronymic": "Васильевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111015",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Напсо",
+      "name": "Юрий",
+      "patronymic": "Аисович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112816",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Натаров",
+      "name": "Сергей",
+      "patronymic": "Васильевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99100713",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Неверов",
+      "name": "Сергей",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111909",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Некрасов",
+      "name": "Александр",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112817",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Николаев",
+      "name": "Николай",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112818",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Николаев",
+      "name": "Олег",
+      "patronymic": "Алексеевич",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112819",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Николаева",
+      "name": "Виктория",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100295",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Никонов",
+      "name": "Вячеслав",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111912",
+      "result": "against",
+      "factionCode": "72100027",
+      "family": "Нилов",
+      "name": "Олег",
+      "patronymic": "Анатольевич",
+      "resultSort": "1",
+      "faction": "СР"
+    },
+    {
+      "code": "99110213",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Нилов",
+      "name": "Ярослав",
+      "patronymic": "Евгеньевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112820",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Новиков",
+      "name": "Владимир",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111018",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Новиков",
+      "name": "Дмитрий",
+      "patronymic": "Георгиевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112821",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Носов",
+      "name": "Александр",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112105",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Огуль",
+      "name": "Леонид",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112822",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Окунева",
+      "name": "Ольга",
+      "patronymic": "Владимировна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112823",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Олейников",
+      "name": "Юрий",
+      "patronymic": "Павлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100790",
+      "result": "for",
+      "factionCode": "72100027",
+      "family": "Омаров",
+      "name": "Гаджимурад",
+      "patronymic": "Заирбекович",
+      "resultSort": "-1",
+      "faction": "СР"
+    },
+    {
+      "code": "99112824",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Онищенко",
+      "name": "Геннадий",
+      "patronymic": "Григорьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112573",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ооржак",
+      "name": "Мерген",
+      "patronymic": "Дадар-оолович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112938",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Осадчий",
+      "name": "Николай",
+      "patronymic": "Иванович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112825",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Осипов",
+      "name": "Илья",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112919",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Павлова",
+      "name": "Ольга",
+      "patronymic": "Ивановна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113126",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Пайкин",
+      "name": "Борис",
+      "patronymic": "Романович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112826",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Палкин",
+      "name": "Андрей",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99104631",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Панина",
+      "name": "Елена",
+      "patronymic": "Владимировна",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110102",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Панков",
+      "name": "Николай",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112828",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Пантелеев",
+      "name": "Сергей",
+      "patronymic": "Михайлович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112829",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Парфенов",
+      "name": "Денис",
+      "patronymic": "Андреевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112830",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пахомов",
+      "name": "Сергей",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112831",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Пашин",
+      "name": "Виталий",
+      "patronymic": "Львович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112832",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Перминов",
+      "name": "Дмитрий",
+      "patronymic": "Сергеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111920",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Петров",
+      "name": "Александр",
+      "patronymic": "Петрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112935",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Петров",
+      "name": "Анатолий",
+      "patronymic": "Ильич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111028",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Петров",
+      "name": "Сергей",
+      "patronymic": "Валериевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109613",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Петров",
+      "name": "Юрий",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112834",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Петрунин",
+      "name": "Николай",
+      "patronymic": "Юрьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99107708",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пивненко",
+      "name": "Валентина",
+      "patronymic": "Николаевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113040",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пилюс",
+      "name": "Наталия",
+      "patronymic": "Николаевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111922",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пимашков",
+      "name": "Петр",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112031",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Пинский",
+      "name": "Виктор",
+      "patronymic": "Витальевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113039",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пирог",
+      "name": "Дмитрий",
+      "patronymic": "Юрьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112835",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пискарев",
+      "name": "Василий",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100315",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Плетнева",
+      "name": "Тамара",
+      "patronymic": "Васильевна",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99100316",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Плотников",
+      "name": "Владимир",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109895",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Поздняков",
+      "name": "Владимир",
+      "patronymic": "Георгиевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112929",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Поклонская",
+      "name": "Наталья",
+      "patronymic": "Владимировна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112837",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Поляков",
+      "name": "Александр",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112242",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пономарев",
+      "name": "Аркадий",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100319",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Пономарёв",
+      "name": "Алексей",
+      "patronymic": "Алексеевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99113203",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Примаков",
+      "name": "Евгений",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111929",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Прокопьев",
+      "name": "Александр",
+      "patronymic": "Сергеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112917",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пушкарев",
+      "name": "Владимир",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112839",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пушкина",
+      "name": "Оксана",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112840",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Пятикоп",
+      "name": "Александр",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111930",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Рахматуллина",
+      "name": "Зугура",
+      "patronymic": "Ягануровна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100601",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Рашкин",
+      "name": "Валерий",
+      "patronymic": "Федорович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112841",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ревенко",
+      "name": "Евгений",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100886",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Резник",
+      "name": "Владислав",
+      "patronymic": "Матусович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112003",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Ремезков",
+      "name": "Александр",
+      "patronymic": "Александрович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99111931",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ресин",
+      "name": "Владимир",
+      "patronymic": "Иосифович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111035",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Роднина",
+      "name": "Ирина",
+      "patronymic": "Константиновна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112642",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Романенко",
+      "name": "Роман",
+      "patronymic": "Юрьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112842",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Романов",
+      "name": "Михаил",
+      "patronymic": "Валентинович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112843",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Рудченко",
+      "name": "Валентина",
+      "patronymic": "Васильевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112844",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Рыжак",
+      "name": "Николай",
+      "patronymic": "Иванович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99109963",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Саблин",
+      "name": "Дмитрий",
+      "patronymic": "Вадимович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112845",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Савастьянова",
+      "name": "Ольга",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111936",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Савельев",
+      "name": "Дмитрий",
+      "patronymic": "Иванович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99105318",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Савицкая",
+      "name": "Светлана",
+      "patronymic": "Евгеньевна",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112847",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Савченко",
+      "name": "Светлана",
+      "patronymic": "Борисовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112848",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сазонов",
+      "name": "Дмитрий",
+      "patronymic": "Валерьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112923",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сайтиев",
+      "name": "Бувайсар",
+      "patronymic": "Хамидович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112849",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Санина",
+      "name": "Наталья",
+      "patronymic": "Петровна",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112850",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сапко",
+      "name": "Игорь",
+      "patronymic": "Вячеславович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112851",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сапрыкина",
+      "name": "Татьяна",
+      "patronymic": "Васильевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112001",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Саралиев",
+      "name": "Шамсаил",
+      "patronymic": "Юнусович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100888",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сафаралиев",
+      "name": "Гаджимет",
+      "patronymic": "Керимович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113202",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Сватковский",
+      "name": "Дмитрий",
+      "patronymic": "Валерьевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111939",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Свинцов",
+      "name": "Андрей",
+      "patronymic": "Николаевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99111048",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Свищев",
+      "name": "Дмитрий",
+      "patronymic": "Александрович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99111049",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Селезнев",
+      "name": "Валерий",
+      "patronymic": "Сергеевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112852",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Селиверстов",
+      "name": "Виктор",
+      "patronymic": "Валентинович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112000",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Селимханов",
+      "name": "Магомед",
+      "patronymic": "Саламович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112853",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Серова",
+      "name": "Елена",
+      "patronymic": "Олеговна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112854",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Серпер",
+      "name": "Евгений",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111054",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сибагатуллин",
+      "name": "Фатих",
+      "patronymic": "Саубанович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112855",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Сидоров",
+      "name": "Александр",
+      "patronymic": "Леонидович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110096",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Симановский",
+      "name": "Леонид",
+      "patronymic": "Яковлевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111945",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Синельщиков",
+      "name": "Юрий",
+      "patronymic": "Петрович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112857",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Синяговский",
+      "name": "Владимир",
+      "patronymic": "Ильич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112685",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ситников",
+      "name": "Алексей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112858",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Скляр",
+      "name": "Геннадий",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100696",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Скоч",
+      "name": "Андрей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112859",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Скриванов",
+      "name": "Дмитрий",
+      "patronymic": "Станиславович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111704",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Скруг",
+      "name": "Валерий",
+      "patronymic": "Степанович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100776",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Слуцкий",
+      "name": "Леонид",
+      "patronymic": "Эдуардович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112860",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Слыщенко",
+      "name": "Константин",
+      "patronymic": "Григорьевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110299",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Смирнов",
+      "name": "Юрий",
+      "patronymic": "Валентинович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99105719",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Смолин",
+      "name": "Олег",
+      "patronymic": "Николаевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112577",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Солнцева",
+      "name": "Светлана",
+      "patronymic": "Юрьевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112861",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Соломатина",
+      "name": "Татьяна",
+      "patronymic": "Васильевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112862",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сопчук",
+      "name": "Сергей",
+      "patronymic": "Андреевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112863",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Станкевич",
+      "name": "Игорь",
+      "patronymic": "Валентинович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111948",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Старовойтов",
+      "name": "Александр",
+      "patronymic": "Сергеевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99111057",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Старшинов",
+      "name": "Михаил",
+      "patronymic": "Евгеньевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100972",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Строкова",
+      "name": "Елена",
+      "patronymic": "Викторовна",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112979",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Суббот",
+      "name": "Валентин",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112864",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сураев",
+      "name": "Максим",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111950",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Сухарев",
+      "name": "Иван",
+      "patronymic": "Константинович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112865",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Сухарев",
+      "name": "Игорь",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112866",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Таймазов",
+      "name": "Артур",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111951",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Тайсаев",
+      "name": "Казбек",
+      "patronymic": "Куцукович",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99111061",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Тарасенко",
+      "name": "Михаил",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112007",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Тен",
+      "name": "Сергей",
+      "patronymic": "Юрьевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111063",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Терентьев",
+      "name": "Александр",
+      "patronymic": "Васильевич",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99111064",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Терентьев",
+      "name": "Михаил",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112025",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Терешкова",
+      "name": "Валентина",
+      "patronymic": "Владимировна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112867",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Тетерин",
+      "name": "Иван",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112126",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Тимофеева",
+      "name": "Ольга",
+      "patronymic": "Викторовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112868",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Тихомиров",
+      "name": "Анатолий",
+      "patronymic": "Федорович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109943",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Ткачев",
+      "name": "Алексей",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112869",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Толстой",
+      "name": "Петр",
+      "patronymic": "Олегович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112870",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Торощин",
+      "name": "Игорь",
+      "patronymic": "Андреевич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99109957",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Третьяк",
+      "name": "Владислав",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111067",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Тумусов",
+      "name": "Федот",
+      "patronymic": "Семёнович",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112650",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Туров",
+      "name": "Артём",
+      "patronymic": "Викторович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112871",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Тутова",
+      "name": "Лариса",
+      "patronymic": "Николаевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111992",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Умаханов",
+      "name": "Умахан",
+      "patronymic": "Магомедгаджиевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112873",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Фаррахов",
+      "name": "Айрат",
+      "patronymic": "Закиевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100398",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Федоров",
+      "name": "Евгений",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112009",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Федяев",
+      "name": "Павел",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111374",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Фетисов",
+      "name": "Вячеслав",
+      "patronymic": "Александрович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112874",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Фирюлин",
+      "name": "Иван",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110097",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Фокин",
+      "name": "Александр",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112710",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Фролова",
+      "name": "Тамара",
+      "patronymic": "Ивановна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111961",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хайров",
+      "name": "Ринат",
+      "patronymic": "Шамильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109928",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хайруллин",
+      "name": "Айрат",
+      "patronymic": "Назипович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100407",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Харитонов",
+      "name": "Николай",
+      "patronymic": "Михайлович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112875",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Харсиев",
+      "name": "Алихан",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112927",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хасанов",
+      "name": "Мурат",
+      "patronymic": "Русланович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109912",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хинштейн",
+      "name": "Александр",
+      "patronymic": "Евсеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109949",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Хованская",
+      "name": "Галина",
+      "patronymic": "Петровна",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99110089",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хор",
+      "name": "Глеб",
+      "patronymic": "Яковлевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112876",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хохлов",
+      "name": "Алексей",
+      "patronymic": "Алексеевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112877",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Хуснулин",
+      "name": "Равиль",
+      "patronymic": "Камильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112878",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Цыбизова",
+      "name": "Татьяна",
+      "patronymic": "Игоревна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100700",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Чайка",
+      "name": "Валентин",
+      "patronymic": "Васильевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111967",
+      "result": "absent",
+      "factionCode": "72100027",
+      "family": "Чепа",
+      "name": "Алексей",
+      "patronymic": "Васильевич",
+      "resultSort": "2",
+      "faction": "СР"
+    },
+    {
+      "code": "99112879",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Чепиков",
+      "name": "Сергей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111079",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Черкасов",
+      "name": "Кирилл",
+      "patronymic": "Игоревич",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112880",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Черкесов",
+      "name": "Леонид",
+      "patronymic": "Ильич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112881",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Чернышев",
+      "name": "Андрей",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112882",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Чернышев",
+      "name": "Михаил",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112564",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Чернышов",
+      "name": "Борис",
+      "patronymic": "Александрович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112883",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Черняева",
+      "name": "Нина",
+      "patronymic": "Алексеевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109921",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Чижов",
+      "name": "Сергей",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100416",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Чилингаров",
+      "name": "Артур",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99109636",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Чиндяскин",
+      "name": "Сергей",
+      "patronymic": "Викторович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99110033",
+      "result": "for",
+      "factionCode": "72100011",
+      "family": "Шайхутдинов",
+      "name": "Рифат",
+      "patronymic": "Габдулхакович",
+      "resultSort": "-1",
+      "faction": "Вне фракций"
+    },
+    {
+      "code": "99100654",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Шаккум",
+      "name": "Мартин",
+      "patronymic": "Люцианович",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112711",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шаманов",
+      "name": "Владимир",
+      "patronymic": "Анатольевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112885",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Шаргунов",
+      "name": "Сергей",
+      "patronymic": "Александрович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112886",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Швыткин",
+      "name": "Юрий",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99100788",
+      "result": "against",
+      "factionCode": "72100027",
+      "family": "Шеин",
+      "name": "Олег",
+      "patronymic": "Васильевич",
+      "resultSort": "1",
+      "faction": "СР"
+    },
+    {
+      "code": "99112887",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Шеремет",
+      "name": "Михаил",
+      "patronymic": "Сергеевич",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112481",
+      "result": "absent",
+      "factionCode": "72100005",
+      "family": "Шерин",
+      "name": "Александр",
+      "patronymic": "Николаевич",
+      "resultSort": "2",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112888",
+      "result": "absent",
+      "factionCode": "72100005",
+      "family": "Шилков",
+      "name": "Данил",
+      "patronymic": "Евгеньевич",
+      "resultSort": "2",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99112889",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шишкоедов",
+      "name": "Василий",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111084",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шойгу",
+      "name": "Лариса",
+      "patronymic": "Кужугетовна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112890",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шолохов",
+      "name": "Александр",
+      "patronymic": "Михайлович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112891",
+      "result": "against",
+      "factionCode": "72100005",
+      "family": "Шперов",
+      "name": "Павел",
+      "patronymic": "Валентинович",
+      "resultSort": "1",
+      "faction": "ЛДПР"
+    },
+    {
+      "code": "99111977",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шрейдер",
+      "name": "Виктор",
+      "patronymic": "Филиппович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111645",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шубин",
+      "name": "Игорь",
+      "patronymic": "Николаевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112892",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шулепов",
+      "name": "Евгений",
+      "patronymic": "Борисович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99107007",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Шурчанов",
+      "name": "Валентин",
+      "patronymic": "Сергеевич",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99111086",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Шхагошев",
+      "name": "Адальби",
+      "patronymic": "Люлевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112893",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Щаблыкин",
+      "name": "Максим",
+      "patronymic": "Иванович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112894",
+      "result": "against",
+      "factionCode": "72100004",
+      "family": "Щапов",
+      "name": "Михаил",
+      "patronymic": "Викторович",
+      "resultSort": "1",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99112895",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Эмиргамзаев",
+      "name": "Абдулгамид",
+      "patronymic": "Гасанович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112896",
+      "result": "absent",
+      "factionCode": "72100024",
+      "family": "Юмашева",
+      "name": "Инга",
+      "patronymic": "Альбертовна",
+      "resultSort": "2",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112897",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Юрков",
+      "name": "Дмитрий",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111981",
+      "result": "absent",
+      "factionCode": "72100004",
+      "family": "Ющенко",
+      "name": "Александр",
+      "patronymic": "Андреевич",
+      "resultSort": "2",
+      "faction": "КПРФ"
+    },
+    {
+      "code": "99113290",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Якубовский",
+      "name": "Александр",
+      "patronymic": "Владимирович",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99112899",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ямпольская",
+      "name": "Елена",
+      "patronymic": "Александровна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99111093",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Яровая",
+      "name": "Ирина",
+      "patronymic": "Анатольевна",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113201",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Ярошук",
+      "name": "Александр",
+      "patronymic": "Георгиевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    },
+    {
+      "code": "99113127",
+      "result": "for",
+      "factionCode": "72100024",
+      "family": "Яхнюк",
+      "name": "Сергей",
+      "patronymic": "Васильевич",
+      "resultSort": "-1",
+      "faction": "ЕР"
+    }
+  ]
+}
